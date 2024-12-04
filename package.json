@@ -1,0 +1,11 @@
+{
+    "name": "perpus2025baru",
+    "version": "25.3.0",
+    "description": "perpus2025baru",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=18"
+    }
+}
